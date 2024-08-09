@@ -1,0 +1,6 @@
+[
+  {
+    "filename": "slow-turning-new-escs",
+    "description": "These settings are designed to be slow and have gentle acceleration. The turning speed is very low, so these settings may help a kid practice moving forwards and backwards instead of spinning in place. These settings only work with the new (blue) ESCs and are not calibrated for the old (red) ESCs."
+  }
+]
