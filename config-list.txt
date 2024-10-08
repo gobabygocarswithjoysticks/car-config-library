@@ -18,7 +18,7 @@
   },
   {
     "filename": "button-mode",
-    "description": "Replaces the joystick with button control without changing any other settings. You can find the settings for the buttons at the bottom of the list of all the settings. You don't have to connect all the buttons. Connecting pins to ground activates a button. Here's what each pin does: 7: forwards, 8: spin left, 9 spin right, 10 curve left, 11 curve right, 12 drive backwards"
+    "description": "Replaces the joystick with button control without changing any other settings. You can find the settings for the buttons at the bottom of the list of all the settings. You don't have to connect all the buttons. Connecting pins to ground activates a button. Here's what each pin does by default: 7: forwards, 8: spin left, 9: spin right, 10: curve left, 11: curve right, 12: drive backwards"
   }
 ]
 }
