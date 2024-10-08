@@ -1,0 +1,10 @@
+{"gbg settings backup, version": 10,
+"ENABLE_BUTTON_CTRL":"true",
+"NUM_DRIVE_BUTTONS":6,
+"DRIVE_BUTTON_1":[7,1,0],
+"DRIVE_BUTTON_2":[8,0,-1],
+"DRIVE_BUTTON_3":[9,0,1],
+"DRIVE_BUTTON_4":[10,1,-1],
+"DRIVE_BUTTON_5":[11,1,1],
+"DRIVE_BUTTON_6":[12,-1,0]
+}
