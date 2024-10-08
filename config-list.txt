@@ -15,6 +15,10 @@
   {
     "filename": "slow-flybar-bumper-car",
     "description": "These settings are designed to be slow. These settings are designed for Flybar bumper cars with the new (blue) ESCs."
+  },
+  {
+    "filename": "button-mode",
+    "description": "Replaces the joystick with button control without changing any other settings. You can find the settings for the buttons at the bottom of the list of all the settings. You don't have to connect all the buttons. Connecting pins to ground activates a button. 7: forwards, 8: spin left, 9 spin right, 10 curve left, 11 curve right, 12 drive backwards"
   }
 ]
 }
