@@ -1,0 +1,7 @@
+{"gbg settings backup, version": 10,
+"LEFT_MOTOR_PULSE":50,
+"RIGHT_MOTOR_PULSE":50,
+"ENABLE_BUTTON_CTRL":"false",
+"NUM_DRIVE_BUTTONS":1,
+"DRIVE_BUTTON_1":[7,1,0]
+}
